@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://pipeargill-static-lfhv7.ondigitalocean.app/",
+    baseUrl: "pipeargill-static-lfhv7.ondigitalocean.app/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

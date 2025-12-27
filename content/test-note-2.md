@@ -1,1 +1,1 @@
-# Hello from Obsidian 6
+# Hello from Obsidian 7
