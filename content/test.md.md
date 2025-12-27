@@ -1,4 +1,4 @@
 --- 
 title: test page
 ---
-This is my content. 1
+This is my content. 2
