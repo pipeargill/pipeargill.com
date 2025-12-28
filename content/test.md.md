@@ -1,5 +1,5 @@
---- 
+---
 title: test page
 slug: test
 ---
-This is my content. 4
+This is my content.
