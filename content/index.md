@@ -1,5 +1,5 @@
 ---
-title: I compulsively build things.
+title: I compulsively build things
 ---
 # Link Tree
 
