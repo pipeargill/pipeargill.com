@@ -2,4 +2,4 @@
 title: test page
 slug: test
 ---
-This is my content. 6
+This is my content. 7
