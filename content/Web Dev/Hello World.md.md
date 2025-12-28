@@ -7,7 +7,7 @@ Problem: My Quartz build is generating files with a double extension: filename.m
 
 Workaround: I have modified my package.json build command to manually "fix" the output after Quartz finishes:
 
-Rename: It finds all .md.html files in public/ and renames them to.html.
+Rename: It finds all .md.html files in public/ and renames them to .html
 
 Rewriting: It runs a sed command across all emitted files (HTML and JSON) to change internal strings of .md.html or .md to .html
 
