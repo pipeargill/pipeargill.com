@@ -1,5 +1,4 @@
 ---
 title: test page
-slug: test
 ---
-This is my content. 10
+This is my content. 11
