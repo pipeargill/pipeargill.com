@@ -65,6 +65,7 @@ It can be useful to modify the alt text for publishing
 - [x] Write the press release  
 - [ ] Update the website  
 - [ ] Contact the media
+
 ![[Task.png]]
 
 # Highlight
