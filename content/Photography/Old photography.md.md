@@ -1,5 +1,5 @@
 ---
 title: Old
 ---
----
+
 New Content
