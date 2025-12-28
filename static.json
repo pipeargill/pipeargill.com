@@ -1,7 +1,11 @@
 {
   "root": "public",
+  "directory_listing": false,
   "routes": {
-    "/test": "/test.md.html",
-    "/posts/test": "/posts/test.md.html"
-  }
+    "/**": "index.html"
+  },
+  "rewrites": [
+    { "source": "/test", "destination": "/test.md.html" },
+    { "source": "/posts/:path*", "destination": "/posts/:path*.md.html" }
+  ]
 }
