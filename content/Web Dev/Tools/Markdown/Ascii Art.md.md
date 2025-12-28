@@ -1,5 +1,6 @@
-***
-
+---
+title: Ascii Art
+---
 
 [looks.wtf](https://looks.wtf/)
 
