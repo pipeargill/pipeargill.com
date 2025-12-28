@@ -1,7 +1,7 @@
 {
   "root": "public",
-  "clean_urls": true,
   "routes": {
-    "/**": "index.html"
+    "/test": "/test.md.html",
+    "/posts/test": "/posts/test.md.html"
   }
 }
