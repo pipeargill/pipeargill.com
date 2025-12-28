@@ -27,3 +27,9 @@ node 24.12.0
 Host: DigitalOcean App Platform (Static Site)
 Public Github:![[]]
 https://github.com/pipeargill/pipeargill.com
+
+Quartz 4
+https://quartz.jzhao.xyz/
+https://github.com/jackyzha0/quartz
+
+![[6a916f2e-415f-4b17-a2e5-fb901d82b38f.png]]
