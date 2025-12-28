@@ -11,9 +11,9 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
-  "scripts": {
+"scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "npx quartz build && find public -name '*.md.html' -exec sh -c 'mv \"$1\" \"${1%.md.html}.html\"' _ {} \\; && find public -name '*.html' -exec sed -i 's/\\.md\\.html/\\.html/g' {} + && find public -name '*.html' -exec sed -i 's/\\.md/\\.html/g' {} +",
+    "build": "npx quartz build && find public -name '*.md.html' -exec sh -c 'mv \"$1\" \"${1%.md.html}.html\"' _ {} \\; && find public -type f -exec sed -i 's/\\.md\\.html/\\.html/g' {} + && find public -type f -exec sed -i 's/\\.md/\\.html/g' {} +",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
