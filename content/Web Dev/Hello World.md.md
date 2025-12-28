@@ -15,9 +15,9 @@ With my current workaround I MUST put .md at the end of my files in Obsidian or 
 
 Current Configuration:
 
-Config: enableSPA: false, prettyLinks: true.
+Config: enableSPA: false, prettyLinks: true
 
-Environment Variables: CLEAN_URLS: true.
+Environment Variables: CLEAN_URLS: true
 
 Windows 10 LTSC IoT
 Quartz 4.5.2
