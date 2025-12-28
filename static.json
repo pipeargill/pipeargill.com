@@ -1,7 +1,11 @@
 {
   "root": "public",
-  "clean_urls": true,
+  "directory_listing": false,
   "routes": {
     "/**": "index.html"
-  }
+  },
+  "rewrites": [
+    { "source": "/test", "destination": "/test.md.html" },
+    { "source": "/posts/:path*", "destination": "/posts/:path*.md.html" }
+  ]
 }
