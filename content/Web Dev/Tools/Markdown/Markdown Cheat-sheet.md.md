@@ -51,6 +51,7 @@
 ![alt text][Image.png]
 When an image is dropped into Obsidian it automatically structures as 
 ![[image 2.png]] 
+
 It can be useful to modify the alt text for publishing
 
 # Strikethrough
