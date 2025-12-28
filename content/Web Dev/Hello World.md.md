@@ -9,7 +9,7 @@ Workaround: I have modified my package.json build command to manually "fix" the 
 
 Rename: It finds all .md.html files in public/ and renames them to.html.
 
-Rewriting: It runs a sed command across all emitted files (HTML and JSON) to change internal strings of .md.html or .md to .html.
+Rewriting: It runs a sed command across all emitted files (HTML and JSON) to change internal strings of .md.html or .md to .html
 
 With my current workaround I MUST put .md at the end of my files in Obsidian or they will 404. 
 
